@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<appSettings>
+
+<!--
+The .gitignore file has been set to ignore "instance.config", so if you want to use such a file,
+1- remove ".example" from the name of this file
+2-delete this comment 
+3-uncomment the rest of the file, which is an example of how the instance.config should be used.
+4-Make sure that the properties for this file (open the properties window in VS) , for "Copy to Output Directory" choose "Copy always"
+
+If you won't include a instance.config file, the application will work perfectly fine, just with different values, i.e., the ones that are in the app.config file.
+
+-->
+
+
+<!--
+  <add key="y" value="2"/>
+  <add key="z" value="3"/>
+  <add key="x" value="7"/>
+-->
+  
+</appSettings>
+
+
